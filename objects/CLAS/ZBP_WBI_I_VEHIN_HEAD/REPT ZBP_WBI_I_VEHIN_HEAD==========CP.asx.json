@@ -1,0 +1,127 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"E",
+    "ENTRY":" Inward Type cannot be changed",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"002",
+    "LANG":"E",
+    "ENTRY":" Vehicle Number cannot be blank",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"003",
+    "LANG":"E",
+    "ENTRY":" Driver Number cannot be blank",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"004",
+    "LANG":"E",
+    "ENTRY":" Reference Number cannot be blank",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"005",
+    "LANG":"E",
+    "ENTRY":" Inward Type cannot be blank",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"006",
+    "LANG":"E",
+    "ENTRY":" Add item with Reference Number",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"007",
+    "LANG":"E",
+    "ENTRY":" Invalid driver number",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"008",
+    "LANG":"E",
+    "ENTRY":" Invalid Transporter Name",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"009",
+    "LANG":"E",
+    "ENTRY":" Invalid Driver Name",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"010",
+    "LANG":"E",
+    "ENTRY":" Invalid Vehicle Number",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"011",
+    "LANG":"E",
+    "ENTRY":" More then one record exist with the same data",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"012",
+    "LANG":"E",
+    "ENTRY":" Creating Weight Ticket without Line Item",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"013",
+    "LANG":"E",
+    "ENTRY":"  Weight Ticket created successfully without Line Item",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"014",
+    "LANG":"E",
+    "ENTRY":" Ticket can't be created without reference number",
+    "LENGTH":120
+   },
+   {
+    "ID":"I",
+    "KEY":"015",
+    "LANG":"E",
+    "ENTRY":"  Weight Ticket creation is aborted",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"016",
+    "LANG":"E",
+    "ENTRY":"  Ticket can't be saved without reference number",
+    "LENGTH":120
+   },
+   {
+    "ID":"I",
+    "KEY":"017",
+    "LANG":"E",
+    "ENTRY":" Ticket can't be created without reference number",
+    "LENGTH":120
+   }
+  ]
+ }
+]

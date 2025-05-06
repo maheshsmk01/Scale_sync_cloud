@@ -1,0 +1,43 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"E",
+    "ENTRY":" Reference Number cannot be blank",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"002",
+    "LANG":"E",
+    "ENTRY":" Weight Ticket created successfully",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"003",
+    "LANG":"E",
+    "ENTRY":" More then one record exist with the same data",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"004",
+    "LANG":"E",
+    "ENTRY":" Record can not be deleted as weights are captured",
+    "LENGTH":100
+   },
+   {
+    "ID":"I",
+    "KEY":"005",
+    "LANG":"E",
+    "ENTRY":" Reference Number cannot be blank",
+    "LENGTH":60
+   }
+  ]
+ }
+]

@@ -1,0 +1,120 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"E",
+    "ENTRY":" Wgt",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"002",
+    "LANG":"E",
+    "ENTRY":"not in tol. lim. Delvry. Wt.",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"003",
+    "LANG":"E",
+    "ENTRY":"No Delvry Line Item found.",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"004",
+    "LANG":"E",
+    "ENTRY":"Qty not updated for Delvy. #",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"005",
+    "LANG":"E",
+    "ENTRY":"Weighbridge weight is 0",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"006",
+    "LANG":"E",
+    "ENTRY":"Weighbridge Gross weight is updated",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"007",
+    "LANG":"E",
+    "ENTRY":"Weighbridge Tare weight is updated",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"008",
+    "LANG":"E",
+    "ENTRY":" GR not done still like to capture the Tare weight?",
+    "LENGTH":60
+   },
+   {
+    "ID":"I",
+    "KEY":"009",
+    "LANG":"E",
+    "ENTRY":"Weighbridge weights are updated",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"010",
+    "LANG":"E",
+    "ENTRY":"Weighbridge weights should not be 0",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"011",
+    "LANG":"E",
+    "ENTRY":" Header data updated",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"012",
+    "LANG":"E",
+    "ENTRY":" GR is not yet done",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"014",
+    "LANG":"E",
+    "ENTRY":" Gross weight",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"015",
+    "LANG":"E",
+    "ENTRY":" has been captured",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"016",
+    "LANG":"E",
+    "ENTRY":" Tare weight",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"017",
+    "LANG":"E",
+    "ENTRY":" has been captured",
+    "LENGTH":50
+   }
+  ]
+ }
+]

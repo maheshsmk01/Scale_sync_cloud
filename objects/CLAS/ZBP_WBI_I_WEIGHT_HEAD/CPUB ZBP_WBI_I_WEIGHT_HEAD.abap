@@ -1,0 +1,1 @@
+CLASS zbp_wbi_i_weight_head DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zwbi_i_weight_head.
